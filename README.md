@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Hi, I’m Ashutosh Gupta
+- 🐱‍👤 I’m interested in Software Development & an electronics enthusiast
+- 🌱 I’m currently learning Java💖 and looking for contributing into Java projects
 
 <!--
 **git-ashug/git-ashug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
