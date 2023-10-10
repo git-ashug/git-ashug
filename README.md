@@ -2,6 +2,9 @@
 - 🐱‍👤 I’m interested in Software Development & an electronics enthusiast
 - 🌱 I’m currently learning Java💖 and looking for contributing into Java projects
 
+# My cool badges:
+[![An image of @gitashug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gitashug)](https://holopin.io/@gitashug)
+
 <!--
 **git-ashug/git-ashug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
